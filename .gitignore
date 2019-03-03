@@ -41,5 +41,6 @@ sites/simpletest
 # Ignore SimpleTest multi-site environment.
 # simpletest
 
-/vendor
-/core
+vendor/
+core/
+profiles/
